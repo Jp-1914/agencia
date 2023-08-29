@@ -19,7 +19,7 @@
    Ex.: agencia | agenciaRh ou agencia-rh
 
 ## Capturar o link do git remote em ssh
-   Ex.:  git@github.com:WandersonMycael/agencia.git
+   Ex.:  git@github.com:Jp-1914/agencia.git
 
 ## Subir o projeto para GitHub
    git push -u origini main (ou branch atual)
