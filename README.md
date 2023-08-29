@@ -1,11 +1,8 @@
 # Agencia
 
-## Criar um projeto no Maven
- mvn archetype:generate -DgroupId=br.com.senai -DartifactId=agencia -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 
-## Acessar o projeto
-   cd nome_do_projeto
 
+<<<<<<< HEAD
 ## Inicializar o versionamento
    git init
 
@@ -23,3 +20,5 @@
 
 ## Subir o projeto para GitHub
    git push -u origini main (ou branch atual)
+=======
+>>>>>>> e9c00575e2efb48fc3ea984e20cfa70f3545007a
